@@ -5,7 +5,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/go-zoox/waitgroup)](https://goreportcard.com/report/github.com/go-zoox/waitgroup)
 [![Coverage Status](https://coveralls.io/repos/github/go-zoox/waitgroup/badge.svg?branch=master)](https://coveralls.io/github/go-zoox/waitgroup?branch=master)
 [![GitHub issues](https://img.shields.io/github/issues/go-zoox/waitgroup.svg)](https://github.com/go-zoox/waitgroup/issues)
-[![Release](https://img.shields.io/github/waitgroup/go-zoox/waitgroup.svg?label=Release)](https://github.com/go-zoox/waitgroup/waitgroups)
+[![Release](https://img.shields.io/github/tag/go-zoox/waitgroup.svg?label=Release)](https://github.com/go-zoox/waitgroup/tags)
 
 ## Installation
 To install the package, run:
