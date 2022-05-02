@@ -39,5 +39,10 @@ func main(t *testing.T) {
 }
 ```
 
+## Related
+* [go-zoox/cocurrent](https://github.com/go-zoox/cocurrent) - A Simple Goroutine Limit Pool
+* [go-zoox/jobqueue](https://github.com/go-zoox/jobqueue) - Powerful unlimited job queue with goroutine pool
+* [go-zoox/promise](https://github.com/go-zoox/promise) - JavaScript Promise Like with Goroutines
+
 ## License
 GoZoox is released under the [MIT License](./LICENSE).
